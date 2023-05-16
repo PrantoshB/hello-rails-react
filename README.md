@@ -138,6 +138,6 @@ If you like this project, please leave a ⭐️
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/prantoshb/hello-rails-react/blob/app/MIT.md) licensed.
+This project is [MIT](https://github.com/prantoshb/hello-rails-react/blob/rails-react/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
